@@ -1,0 +1,9 @@
+GIT Version Controlling
+
+Repository
+
+1. Add
+2. Commit
+3. Origin / Branch
+4. Pull
+5. Push
